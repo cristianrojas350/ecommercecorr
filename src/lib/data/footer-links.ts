@@ -5,30 +5,25 @@ export const footerSections: FooterSection[] = [
     title: "Products",
     links: [
       {
-        name: "Computers",
-        link: "/computers",
+        name: "Computadoras",
+        link: "/home",
       },
       {
-        name: "Audio & Headphones",
-        link: "/audio-and-headphones",
-      },
-      {
-        name: "TV",
-        link: "/tv",
+        name: "Audifonos",
+        link: "/home",
       }
-
     ],
   },
   {
     title: "Discounts",
     links: [
       {
-        name: "Autumn Sale",
-        link: "/autumn-sale",
+        name: "Informacion",
+        link: "/home",
       },
       {
-        name: "Register and get 15% off",
-        link: "/registration-bonus",
+        name: "Promociones",
+        link: "/home",
       },
     ],
   },
@@ -36,20 +31,16 @@ export const footerSections: FooterSection[] = [
     title: "About",
     links: [
       {
-        name: "FAQ",
-        link: "/faq",
+        name: "PQRS",
+        link: "/home",
       },
       {
-        name: "Shipment",
-        link: "/shipment",
+        name: "Ordenes",
+        link: "/home",
       },
       {
-        name: "Terms & Conditions",
-        link: "/terms-and-conditions",
-      },
-      {
-        name: "Privacy Policy",
-        link: "/privacy-policy",
+        name: "Informacion",
+        link: "/home",
       },
     ],
   },
